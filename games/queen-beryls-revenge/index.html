@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sailor Moon: Queen Beryl's Revenge</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preload" as="audio" href="MoonlightDensetsu.mp3">
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <audio id="music" src="MoonlightDensetsu.mp3" loop></audio>
+
+  <div id="menu">
+    <h1><span class="title-main">Sailor Moon:</span><br><span class="title-sub">Queen Beryl's Revenge</span></h1>
+    <p>Selecciona tu fase lunar</p>
+    <select id="difficulty">
+      <option value="1000">🌙 Luna de Cristal (Fácil)</option>
+      <option value="700">🌕 Luna Llena (Media)</option>
+      <option value="400">🌑 Luna de Sangre (Difícil)</option>
+    </select>
+    <button onclick="startGame()">Comenzar</button>
+  </div>
+
+  <div id="game" class="hidden">
+    <div id="info">
+      <p>Puntaje: <span id="score">0</span></p>
+      <p>Vidas: <span id="lives">3</span></p>
+      <p>Tiempo: <span id="timer">60</span>s</p>
+    </div>
+    <div id="game-area"></div>
+  </div>
+
+  <div id="end" class="hidden">
+    <h2 id="endMessage"></h2>
+    <button onclick="restartGame()">Reiniciar</button>
+  </div>
+</body>
+</html>

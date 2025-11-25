@@ -1,0 +1,25 @@
+body {
+    background-color: #c2feff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: rgb(231, 143, 71);
+    margin-bottom: 10px;
+}
+
+#gameCanvas {
+    background-image: url("assets/Background1.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border: 5px solid #23532b;
+    box-shadow: 0 0 20px rgb(231, 143, 71);
+    display: block; 
+}

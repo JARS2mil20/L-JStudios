@@ -1,0 +1,38 @@
+/* Estilos básicos */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    padding: 20px;
+}
+
+#playlist-container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.cancion-item {
+    border-bottom: 1px solid #eee;
+    padding: 15px 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.cancion-item:last-child {
+    border-bottom: none;
+}
+
+.cancion-item p {
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.cancion-item audio {
+    width: 100%;
+    /* Estilos para el control de audio */
+    filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) hue-rotate(180deg);
+}
