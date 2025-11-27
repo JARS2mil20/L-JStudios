@@ -50,5 +50,5 @@ function crearReproductor() {
 }
 
 // Llama a la función al cargar la página
-window.onload = crearReproductor;
+window.onload = crearReproductor();
 
