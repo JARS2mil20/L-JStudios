@@ -1,10 +1,10 @@
 // ACTUALIZAR MANUALMENTE - Nombre de canciones
 const listaCanciones = [
-    "Claire-de-Lune.mp3",
+    "Clair-de-Lune.mp3",
     "Amazing-Grace.mp3",
     "Berceuse.mp3",
     "Chill-beats-to-play-chess.mp3",
-    "Fance-Of-The-Damselflies.mp3",
+    "Dance-Of-The-Damselflies.mp3",
     "Eleanor-Rigby.mp3",
     "Help.mp3",
     "Hotline-Piano.mp3",
