@@ -35,7 +35,7 @@ function crearReproductor() {
         // Agrega el título de la canción
         const titulo = document.createElement('p');
         titulo.textContent = nombreArchivo.replace('.mp3', '');
-        título.textContent = nombreArchivo.replace('-', ' ');
+        titulo.textContent = nombreArchivo.replace('-', ' ');
         // Muestra el nombre sin la extensión
         cancionDiv.appendChild(titulo);
 
