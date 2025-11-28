@@ -1,4 +1,4 @@
-// Array con info de los libros, como se ve a continuación:
+// Array con info de los libros, como se ve a continuación: (idealmente utilizar formato pdf, en minúscula, si no, ser consciente de las consecuencias)
 // url_lectura puede ser un PDF o visor hmtl/Iframe para leer online
 // url_descarga puede ser PDF, EPUB o MOBI para descargarlo directamente
 const libros = [
@@ -32,7 +32,7 @@ libros.forEach(libro => {
     tarjeta.innerHTML = `
         <img src="${libro.imagen}" alt="Tapa del libro ${libro.titulo}">
         <h3>${libro.titulo}</h3>
-        <p>Autor: **${libro.autor}**</p>
+        <p>Autor: <strong>${libro.autor}</strong></p>
         <p class="sinopsis">${libro.sinopsis}</p>
         <div class="botones-accion">
             <button class="boton-leer" data-url="${libro.url_lectura}">
