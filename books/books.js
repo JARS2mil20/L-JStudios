@@ -11,12 +11,76 @@ const libros = [
     url_descarga: "./pdf/Un-ida-y-vuelta.pdf"
   },
   {
-    titulo: "",
-    autor: "",
+    titulo: "Harry Potter - Saga Completa",
+    autor: "J.K. Rowling",
     sinopsis: "",
     imagen: "",
-    url_lectura: "",
-    url_descarga: ""
+    url_lectura: "./pdf/Harry-Potter-saga-completa-JK-Rowling.pdf",
+    url_descarga: "./pdf/Harry-Potter-saga-completa-JK-Rowling.pdf"
+  },
+  {
+    titulo: "Orgullo y prejuicio",
+    autor: "Jane Austen",
+    sinopsis: "",
+    imagen: "",
+    url_lectura: "./pdf/Orgullo-y-prejuicio-Jane-Austen.pdf",
+    url_descarga: "./pdf/Orgullo-y-prejuicio-Jane-Austen.pdf"
+  },
+  {
+    titulo: "Persuasión",
+    autor: "Jane Austen",
+    sinopsis: "",
+    imagen: "",
+    url_lectura: "./pdf/Persuasion-Jane-Austen.pdf",
+    url_descarga: "./pdf/Persuasion-Jane-Austen.pdf"
+  },
+  {
+    titulo: "Sentido y sensibilidad",
+    autor: "Jane Austen",
+    sinopsis: "",
+    imagen: "",
+    url_lectura: "./pdf/Sentido-sensibilidad-Jane-Austen.pdf",
+    url_descarga: "./pdf/Sentido-sensibilidad-Jane-Austen.pdf"
+  },
+  {
+    titulo: "Una corte de alas y ruina",
+    autor: "Sarah J. Maas",
+    sinopsis: "",
+    imagen: "",
+    url_lectura: "./pdf/Una-corte-de-alas-y-ruina-Sarah-J-Maas.pdf",
+    url_descarga: "./pdf/Una-corte-de-alas-y-ruina-Sarah-J-Maas.pdf"
+  },
+  {
+    titulo: "Una corte de hielo y estrellas",
+    autor: "Sarah J. Maas",
+    sinopsis: "",
+    imagen: "",
+    url_lectura: "./pdf/Una-corte-de-hielo-y-estrellas-Sarah-J-Maas.pdf",
+    url_descarga: "./pdf/Una-corte-de-hielo-y-estrellas-Sarah-J-Maas.pdf"
+  },
+  {
+    titulo: "Una corte de llamas plateadas",
+    autor: "Sarah J. Maas",
+    sinopsis: "",
+    imagen: "",
+    url_lectura: "./pdf/Una-corte-de-llamas-plateadas-Sarah-J-Maas.pdf",
+    url_descarga: "./pdf/Una-corte-de-llamas-plateadas-Sarah-J-Maas.pdf"
+  },
+  {
+    titulo: "Una corte de niebla y furia",
+    autor: "Sarah J. Maas",
+    sinopsis: "",
+    imagen: "",
+    url_lectura: "./pdf/Una-corte-de-niebla-y-furia-Sarah-J-Maas.pdf",
+    url_descarga: "./pdf/Una-corte-de-niebla-y-furia-Sarah-J-Maas.pdf"
+  },
+  {
+    titulo: "Una corte de rosas y espinas",
+    autor: "Sarah J. Maas",
+    sinopsis: "",
+    imagen: "",
+    url_lectura: "./pdf/Una-corte-de-rosas-y-espinas-Sarah-J-Maas.pdf",
+    url_descarga: "./pdf/Una-corte-de-rosas-y-espinas-Sarah-J-Maas.pdf"
   }
 ]
 
