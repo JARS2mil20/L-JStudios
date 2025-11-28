@@ -34,7 +34,7 @@ function crearReproductorVideos() {
         const video = document.createElement('video');
         video.controls = true;
         video.src = directorioVideos + nombreArchivo; // Ruta
-        video.poster = "placeholder.jpg"; // Opcional: una imagen de previsualización mientras carga
+        // video.poster = "placeholder.jpg"; // Opcional: una imagen de previsualización mientras carga
 
         videoDiv.appendChild(video);
         contenedorPlaylist.appendChild(videoDiv);
