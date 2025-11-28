@@ -45,7 +45,7 @@ const libros = [
   {
     titulo: "Una corte de alas y ruina",
     autor: "Sarah J. Maas",
-    sinopsis: "",
+    sinopsis: "Se avecina la guerra. Feyre regresa a la Corte Primavera para espiar al enemigo antes de que ella y la Corte Noche lideren la batalla final para proteger el mundo fae.",
     imagen: "",
     url_lectura: "./pdf/Una-corte-de-alas-y-ruina-Sarah-J-Maas.pdf",
     url_descarga: "./pdf/Una-corte-de-alas-y-ruina-Sarah-J-Maas.pdf"
@@ -53,7 +53,7 @@ const libros = [
   {
     titulo: "Una corte de hielo y estrellas",
     autor: "Sarah J. Maas",
-    sinopsis: "",
+    sinopsis: "Feyre y Rhysand reconstruyen la Corte Noche y la ciudad Velaris después de la guerra, lidiando con las secuelas emocionales y celebrando el solsticio de invierno.",
     imagen: "",
     url_lectura: "./pdf/Una-corte-de-hielo-y-estrellas-Sarah-J-Maas.pdf",
     url_descarga: "./pdf/Una-corte-de-hielo-y-estrellas-Sarah-J-Maas.pdf"
@@ -61,7 +61,7 @@ const libros = [
   {
     titulo: "Una corte de llamas plateadas",
     autor: "Sarah J. Maas",
-    sinopsis: "",
+    sinopsis: "La historia se centra en Nesta Archeron y el guerrero Cassian, quienes se ven obligados a entrenar juntos, mientras Nesta aprende a controlar su aterrador poder y a enfrentar una nueva amenaza.",
     imagen: "",
     url_lectura: "./pdf/Una-corte-de-llamas-plateadas-Sarah-J-Maas.pdf",
     url_descarga: "./pdf/Una-corte-de-llamas-plateadas-Sarah-J-Maas.pdf"
@@ -69,7 +69,7 @@ const libros = [
   {
     titulo: "Una corte de niebla y furia",
     autor: "Sarah J. Maas",
-    sinopsis: "",
+    sinopsis: "Una Feyre destrozada huye de su vida con Tamlin y encuentra sanación y poder junto a Rhysand, el Alto Lord de la Corte Noche, mientras se prepara para la inminente guerra contra el rey de Hybern.",
     imagen: "",
     url_lectura: "./pdf/Una-corte-de-niebla-y-furia-Sarah-J-Maas.pdf",
     url_descarga: "./pdf/Una-corte-de-niebla-y-furia-Sarah-J-Maas.pdf"
@@ -77,7 +77,7 @@ const libros = [
   {
     titulo: "Una corte de rosas y espinas",
     autor: "Sarah J. Maas",
-    sinopsis: "",
+    sinopsis: "La cazadora mortal Feyre es llevada al reino de las hadas como castigo. Debe romper una maldición de amor antes de que el Alto Lord Tamlin y todo Prythian sean destruidos.",
     imagen: "",
     url_lectura: "./pdf/Una-corte-de-rosas-y-espinas-Sarah-J-Maas.pdf",
     url_descarga: "./pdf/Una-corte-de-rosas-y-espinas-Sarah-J-Maas.pdf"
