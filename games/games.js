@@ -17,13 +17,13 @@ const juegos = [
     nombre: "Queen Beryl´s Revenge",
     descripcion: "Bajo el sello de la Reina Beryl, te alzas en una oscura cacería. Tu misión es desatar la venganza en 1 minuto para reclamar el Cristal de Plata y sellar el destino de la Luna. La obsesión de Beryl por Endymion define tu suerte: su imagen junto a la Reina te otorga favor; su amor junto a Sailor Moon invoca castigo...",
     url: "./queen-beryls-revenge/index.html",
-    imagen: ""
+    imagen: "./icon/QBRP.jpg"
   },
   {
     nombre: "Flappy Bird",
     descripcion: "Un clásico. La misión es simple: esquivar las tuberías verdes. Un solo toque lo decide todo. El juego es pura y simple frustración de altos puntajes.",
     url: "./flappy-bird/index.html",
-    imagen: ""
+    imagen: "./icon/flappy.jpg"
   }
 ];
 
