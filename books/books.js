@@ -21,7 +21,7 @@ const libros = [
   {
     titulo: "Orgullo y prejuicio",
     autor: "Jane Austen",
-    sinopsis: "",
+    sinopsis: "Una joven ingeniosa, Elizabeth Bennet, se enfrenta a un caballero orgulloso, Fitzwilliam Darcy. Ambos deben superar sus propios defectos y los malentendidos sociales para encontrar el amor verdadero.",
     imagen: "",
     url_lectura: "./pdf/Orgullo-y-prejuicio-Jane-Austen.pdf",
     url_descarga: "./pdf/Orgullo-y-prejuicio-Jane-Austen.pdf"
@@ -29,7 +29,7 @@ const libros = [
   {
     titulo: "Persuasión",
     autor: "Jane Austen",
-    sinopsis: "",
+    sinopsis: "Ocho años después de ser persuadida para romper su compromiso, Anne Elliot se reencuentra con el Capitán Wentworth, ahora rico y exitoso, reviviendo su arrepentimiento y la esperanza de una segunda oportunidad.",
     imagen: "",
     url_lectura: "./pdf/Persuasion-Jane-Austen.pdf",
     url_descarga: "./pdf/Persuasion-Jane-Austen.pdf"
@@ -37,7 +37,7 @@ const libros = [
   {
     titulo: "Sentido y sensibilidad",
     autor: "Jane Austen",
-    sinopsis: "",
+    sinopsis: "Las hermanas Dashwood, Elinor (razón) y Marianne (pasión), enfrentan la pobreza y las decepciones amorosas, contrastando sus enfoques opuestos para manejar las emociones y la vida social.",
     imagen: "",
     url_lectura: "./pdf/Sentido-sensibilidad-Jane-Austen.pdf",
     url_descarga: "./pdf/Sentido-sensibilidad-Jane-Austen.pdf"
