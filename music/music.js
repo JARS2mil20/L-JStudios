@@ -32,11 +32,11 @@ function crearReproductor() {
         const cancionDiv = document.createElement('div');
         cancionDiv.classList.add('cancion-item');
 
-// Crea nombreLimpio, nombre del video que ve el usuario
-       let nombreLimpio = nombreArchivo.replace('.mp4', '');
+// Crea nombreLimpio, nombre del audio que ve el usuario
+       let nombreLimpio = nombreArchivo.replace('.mp3', '');
        nombreLimpio = nombreLimpio.replaceAll('-', ' ');
 
-        // Agrega el título del video
+        // Agrega el título del audio
         const titulo = document.createElement('h2');
         titulo.textContent = nombreLimpio;
         cancionDiv.appendChild(titulo);
