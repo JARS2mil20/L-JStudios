@@ -21,7 +21,7 @@ const juegos = [
   },
   {
     nombre: "Flappy Bird",
-    descripcion: "Un clásico",
+    descripcion: "Un clásico. La misión es simple: esquivar las tuberías verdes. Un solo toque lo decide todo. El juego es pura y simple frustración de altos puntajes.",
     url: "./flappy-bird/index.html",
     imagen: ""
   }
