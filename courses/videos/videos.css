@@ -1,1 +1,40 @@
-/* Por ahora vacio */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #1a1a2e; /* Fondo oscuro */
+    color: #e5e5f7;
+    padding: 20px;
+}
+
+#playlist-videos-container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #2c2c44;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+.video-item {
+    border-bottom: 2px solid #5a5a70;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.video-item:last-child {
+    border-bottom: none;
+}
+
+.video-item h2 {
+    color: #8c8cff; /* púrpura claro */
+    margin-bottom: 15px;
+    font-size: 1.5em;
+}
+
+.video-item video {
+    width: 100%;
+    max-height: 450px;
+    border-radius: 8px;
+    outline: none;
+    background-color: #000;
+}
+
