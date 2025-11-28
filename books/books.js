@@ -13,7 +13,7 @@ const libros = [
   {
     titulo: "Harry Potter - Saga Completa",
     autor: "J.K. Rowling",
-    sinopsis: "",
+    sinopsis: "Un niño huérfano descubre a los once años que es un mago y asiste a Hogwarts. Allí, en compañía de sus amigos, se entrena y se prepara para el destino de enfrentarse y derrotar al mago oscuro que asesinó a sus padres, Lord Voldemort.",
     imagen: "",
     url_lectura: "./pdf/Harry-Potter-saga-completa-JK-Rowling.pdf",
     url_descarga: "./pdf/Harry-Potter-saga-completa-JK-Rowling.pdf"
